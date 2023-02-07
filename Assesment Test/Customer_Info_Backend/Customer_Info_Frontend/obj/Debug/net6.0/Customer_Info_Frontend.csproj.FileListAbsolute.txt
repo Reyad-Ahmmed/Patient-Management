@@ -119,3 +119,45 @@ H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment 
 H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.pdb
 H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.genruntimeconfig.cache
 H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\ref\Customer_Info_Frontend.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\appsettings.json
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\libman.json
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.staticwebassets.runtime.json
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.exe
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.deps.json
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.runtimeconfig.json
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.pdb
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Autofac.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Nancy.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.AssemblyReference.cache
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.AssemblyInfoInputs.cache
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.AssemblyInfo.cs
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.CoreCompileInputs.cache
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.RazorAssemblyInfo.cache
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.RazorAssemblyInfo.cs
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.Customer_Info_Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.build.Customer_Info_Frontend.props
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Customer_Info_Frontend.props
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Customer_Info_Frontend.props
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\scopedcss\bundle\Customer_Info_Frontend.styles.css
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.CopyComplete
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\refint\Customer_Info_Frontend.dll
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.pdb
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.genruntimeconfig.cache
+C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\ref\Customer_Info_Frontend.dll
