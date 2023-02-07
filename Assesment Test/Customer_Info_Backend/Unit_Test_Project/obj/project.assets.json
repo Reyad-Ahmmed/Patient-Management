@@ -12022,11 +12022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\REYAD-1260660\\Job Interview\\EXCEL BD\\Assesment Test\\Assesment Test\\Assesment Test\\Customer_Info_Backend\\Unit_Test_Project\\Unit_Test_Project.csproj",
+      "projectUniqueName": "C:\\Users\\SHARIF_PC\\Desktop\\Assesment-Test-Excel-Ltd\\Assesment Test\\Customer_Info_Backend\\Unit_Test_Project\\Unit_Test_Project.csproj",
       "projectName": "Unit_Test_Project",
-      "projectPath": "H:\\REYAD-1260660\\Job Interview\\EXCEL BD\\Assesment Test\\Assesment Test\\Assesment Test\\Customer_Info_Backend\\Unit_Test_Project\\Unit_Test_Project.csproj",
+      "projectPath": "C:\\Users\\SHARIF_PC\\Desktop\\Assesment-Test-Excel-Ltd\\Assesment Test\\Customer_Info_Backend\\Unit_Test_Project\\Unit_Test_Project.csproj",
       "packagesPath": "C:\\Users\\SHARIF_PC\\.nuget\\packages\\",
-      "outputPath": "H:\\REYAD-1260660\\Job Interview\\EXCEL BD\\Assesment Test\\Assesment Test\\Assesment Test\\Customer_Info_Backend\\Unit_Test_Project\\obj\\",
+      "outputPath": "C:\\Users\\SHARIF_PC\\Desktop\\Assesment-Test-Excel-Ltd\\Assesment Test\\Customer_Info_Backend\\Unit_Test_Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12047,8 +12047,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "H:\\REYAD-1260660\\Job Interview\\EXCEL BD\\Assesment Test\\Assesment Test\\Assesment Test\\Customer_Info_Backend\\Customer_Info_Backend\\Customer_Info_Backend.csproj": {
-              "projectPath": "H:\\REYAD-1260660\\Job Interview\\EXCEL BD\\Assesment Test\\Assesment Test\\Assesment Test\\Customer_Info_Backend\\Customer_Info_Backend\\Customer_Info_Backend.csproj"
+            "C:\\Users\\SHARIF_PC\\Desktop\\Assesment-Test-Excel-Ltd\\Assesment Test\\Customer_Info_Backend\\Customer_Info_Backend\\Customer_Info_Backend.csproj": {
+              "projectPath": "C:\\Users\\SHARIF_PC\\Desktop\\Assesment-Test-Excel-Ltd\\Assesment Test\\Customer_Info_Backend\\Customer_Info_Backend\\Customer_Info_Backend.csproj"
             }
           }
         }
