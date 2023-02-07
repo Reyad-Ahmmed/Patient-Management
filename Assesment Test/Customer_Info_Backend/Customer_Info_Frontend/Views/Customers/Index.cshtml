@@ -1,0 +1,378 @@
+﻿@{
+    ViewData["Title"] = "Customer Information";
+}
+@model Customer_Info_Frontend.ViewModels.CustomerVM
+@section styles{
+    <link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        .card {
+            box-shadow: 10px 5px 5px lightgrey !important;
+        }
+
+        .editOrdelete:hover {
+            background-color: #BFD6F8;
+        }
+
+        #custTable tr td {
+            border: none !important;
+        }
+    </style>
+}
+
+<div class="row container-fluid m-3">
+    <div class="col-md-4 card">
+        <h4 class="text-md-center" style="margin: 10px auto;">Customer List</h4>
+        <table id="custTable" class="table">
+            <thead>
+            </thead>
+            <tbody>
+            <tr>
+                @foreach (var c in Model.Customers)
+                {
+                    <td class="row">
+                        <button type="button" customer_id="@c.Id" class="col-md-10 btn btn-sm editOrdelete" style="margin: 5px auto; background-color: #DDEAFD;">
+                            <b>@c.CustomerName</b>
+                        </button>
+                    </td>
+
+                }
+            </tr>
+            </tbody>
+        </table>
+
+
+    </div>
+    <div class="col-md-7 card" style="margin-left: 15px;">
+        <div class="card-body">
+
+            @*Actions*@
+
+            <div class="row">
+                <div>
+                    <h4>Actions</h4>
+                    <button class="btn btn-sm btn-primary" id="editCustomer">EDIT</button>
+                    <button class="btn btn-sm btn-success" id="saveCustomer">SAVE</button>
+                    <button class="btn btn-sm btn-danger" id="deleteCustomer">DELETE</button>
+                    <button type="reset" class="btn btn-sm btn-secondary" form="myform">CANCEL</button>
+                </div>
+            </div>
+            <hr />
+
+            @*Basic Information*@
+
+            <form id="myform" enctype="multipart/form-data">
+                <input asp-for="Id" type="hidden" id="Id" />
+                <input asp-for="CustomerId" hidden="" id="CustomerId" />
+                <h4>Basic Information</h4>
+                <div class="row form-group mb-1">
+                    <label class="col-form-label col-md-3">NAME:</label>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" placeholder="Enter Name Text" required="" asp-for="CustomerName" id="CustomerName" />
+                    </div>
+                </div>
+
+                <div class="row form-group mb-1">
+                    <label class="col-form-label col-md-3">FATHER NAME:</label>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" placeholder="Enter Name Text" required="" asp-for="FatherName" id="FatherName" />
+                    </div>
+                </div>
+
+                <div class="row form-group mb-1">
+                    <label class="col-form-label col-md-3">MOTHER NAME:</label>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" placeholder="Enter Name Text" required="" asp-for="MotherName" id="MotherName" />
+                    </div>
+                </div>
+
+                <div class="row form-group mb-1">
+                    <label class="col-form-label col-md-3">MARITAL STATUS:</label>
+                    <div class="col-md-8 d-flex">
+                        <div class="form-check" style="margin-right: 20px;">
+                            <input type="radio" name="MaritalStatus" asp-for="MaritalStatus" value="0">
+                            <label class="form-check-label" for="single">
+                                SINGLE
+                            </label>
+                        </div>
+                        <div class="form-check" style="margin-right: 20px;">
+                            <input type="radio" name="MaritalStatus" asp-for="MaritalStatus" value="1">
+                            <label class="form-check-label" for="married">
+                                MARRIED
+                            </label>
+                        </div>
+                        <div class="form-check" style="margin-right: 20px;">
+                            <input type="radio" name="MaritalStatus" asp-for="MaritalStatus" value="2">
+                            <label class="form-check-label" for="others">
+                                OTHERS
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row form-group mb-1">
+                    <label class="col-form-label col-md-3">COUNTRY:</label>
+                    <div class="col-md-8">
+                        <select class="form-control form-select" asp-for="CountryId" id="CountryId">
+                            <option>--Select Country--</option>
+                            @foreach (var c in ViewBag.countryList)
+                            {
+                                <option value="@c.Id">@c.CountryName</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+
+                <div class="row form-group mb-1">
+                    <label class="col-form-label col-md-3">PHOTO:</label>
+                    <div class="col-md-8">
+                        <input type="file" id="LogoBase64" onchange="attachLogo(this);">
+                        <input type="text" class="form-control" id="myfile" hidden />
+                        <img id="previewLogo" style="max-height: 100px; max-width: 100px;object-fit: cover" />
+                    </div>
+                </div>
+            </form>
+
+
+        </div>
+
+        @*Other Information*@
+        <hr />
+        <div style="margin-bottom: 10px;">
+            <button type="button" class="btn btn-sm btn-success" id="addAddresses">Add</button>
+        </div>
+        <div class="table-responsive col-md-12">
+            <table class="table table-bordered" id="tblAddress">
+                <thead>
+                <tr>
+                    <th>Address</th>
+                    <th>Address</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>
+                        <input type="text" class="form-control" placeholder="Enter Address" id="Addresses"/>
+                    </td>
+                    <td>
+                        <button class="btn btn-sm btn-danger remove">Delete</button>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+
+
+    <script>
+
+        // for image upload
+
+        function attachLogo(input) {
+            const preview = document.querySelector('#previewLogo');
+            const file = document.querySelector('#LogoBase64').files[0];
+            const reader = new FileReader();
+
+            reader.addEventListener("load", function () {
+                // convert image file to base64 string
+                preview.src = reader.result;
+                document.getElementById("myfile").value = reader.result;
+                console.log(document.getElementsByName("Logo").value);
+            }, false);
+
+            if (file) {
+                reader.readAsDataURL(file);
+            }
+        };
+
+        // for bind radio button
+
+        function displayRadioValue() {
+            var ele = document.getElementsByName('MaritalStatus');
+
+            for (i = 0; i < ele.length; i++) {
+                if (ele[i].checked)
+                    console.log(ele[i].value);
+            }
+        }
+
+        // for remove customer address
+
+        $('table').on('click',
+            'tr td button.remove',
+            function (e) {
+                e.preventDefault();
+                $(this).closest('tr').remove();
+            });
+
+
+        $(document).ready(function () {
+
+            // for add customer address
+
+            $("#addAddresses").click(function () {
+                $("#tblAddress").append(
+                    `<tr>
+                        <td>
+                            <input type="text" class="form-control" placeholder="Enter Address"/>
+                        </td>
+                        <td>
+                            <button class="btn btn-sm btn-danger remove">Delete</button>
+                        </td>
+                    </tr>`
+                );
+            });
+
+            //---------for customer save-----------
+            $("#saveCustomer").click(function () {
+
+                var ele = document.getElementsByName('MaritalStatus');
+                var CustomerList = [];
+                var CustomerVM = {};
+                CustomerVM.Id = $("#Id").val();
+                CustomerVM.CustomerId = $("#CustomerId").val();
+                CustomerVM.CustomerName = $("#CustomerName").val();
+                CustomerVM.FatherName = $("#FatherName").val();
+                CustomerVM.MotherName = $("#MotherName").val();
+                CustomerVM.CountryId = $("#CountryId").val();
+                CustomerVM.CustomerPhoto = $("#myfile").val();
+
+                for (i = 0; i < ele.length; i++) {
+                    if (ele[i].checked)
+                        CustomerVM.MaritalStatus = ele[i].value;
+                }
+
+                CustomerVM.Addresses = [];
+
+                // get address data
+
+                $("#tblAddress").find("tbody tr").each(function () {
+                    CustomerVM.Addresses.push($(this).find("td input:eq(0)").val());
+                });
+                CustomerList.push(CustomerVM);
+
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("AddCustomer")',
+                    data: { 'customer': JSON.stringify(CustomerList) },
+                    
+                    success: function (r) {
+                        setTimeout(function(){
+                            window.location.href = '@Url.Action("Index","Customers")';
+                        }, 1000);
+                    },
+                    error: function (e) {
+                        console.log(e);
+                    }
+                });
+
+            });
+
+            //----------for single customer info get--------------
+
+            $('#custTable').on('click',
+                '.editOrdelete',
+                function () {
+                    var customer_id = $(this).attr('customer_id');
+                    $("#tblAddress tbody tr").remove();
+                    $.ajax({
+                        type: "GET",
+                        url: '@Url.Action("GetCustomerData")?id=' + customer_id,
+                        success: function (r) {
+                            $("#CountryId").val(r.customer.countryId);
+                            $("#Id").val(r.customer.id);
+                            $("#CustomerId").val(r.customer.customerId);
+                            $("#CustomerName").val(r.customer.customerName);
+                            $("#FatherName").val(r.customer.fatherName);
+                            $("#MotherName").val(r.customer.motherName);
+                            $("#myfile").val(r.customer.customerPhoto);
+                            $("#previewLogo").attr("src", r.customer.customerPhoto);
+                            $("input[name=MaritalStatus][value=" + r.customer.maritalStatus + "]").prop('checked', true);
+                            if (r.customerAddresses.length > 0) {
+                                for (var i = 0; i < r.customerAddresses.length; i++) {
+                                    var name = r.customerAddresses[i].customerAddress;
+
+                                    $("#tblAddress tbody").append(
+                                        `<tr>
+                                             <td>
+                                                <input type="text" class="form-control" placeholder="Enter Address" value="${name}"/>
+                                            </td>
+                                            <td>
+                                                <button class="btn btn-sm btn-danger remove">Delete</button>
+                                            </td>
+                                         </tr>`
+                                    );
+
+
+                                }
+                            }
+
+                        },
+                        error: function (e) {
+                            console.log(e);
+                        }
+                    });
+                });
+
+            //----------for customer edit----------------------
+            $("#editCustomer").click(function () {
+                var ele = document.getElementsByName('MaritalStatus');
+                var CustomerList = [];
+                var CustomerVM = {};
+                CustomerVM.Id = $("#Id").val();
+                CustomerVM.CustomerId = $("#CustomerId").val();
+                CustomerVM.CustomerName = $("#CustomerName").val();
+                CustomerVM.FatherName = $("#FatherName").val();
+                CustomerVM.MotherName = $("#MotherName").val();
+                CustomerVM.CountryId = $("#CountryId").val();
+                CustomerVM.CustomerPhoto = $("#myfile").val();
+
+                for (i = 0; i < ele.length; i++) {
+                    if (ele[i].checked)
+                        CustomerVM.MaritalStatus = ele[i].value;
+                }
+
+                CustomerVM.Addresses = [];
+
+                $("#tblAddress").find("tbody tr").each(function () {
+                    CustomerVM.Addresses.push($(this).find("td input:eq(0)").val());
+                });
+
+                CustomerList.push(CustomerVM);
+
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("UpdateCustomer")',
+                    data: { 'customer': JSON.stringify(CustomerList) },
+                 
+                    success: function (r) {
+                        window.location.href = '@Url.Action("Index","Customers")';
+                    },
+                    error: function (e) {
+                        console.log(e);
+                    }
+                });
+
+            });
+
+            //-------------for delete customer---------------
+
+            $("#deleteCustomer").click(function () {
+                var customer_id = $("#CustomerId").val();
+                $.ajax({
+                    dataType: "json",
+                    url: '@Url.Action("DeleteGetCustomerData")?id=' + customer_id,
+                    success: function (result) {
+                        window.location.href = '@Url.Action("Index")';
+                    },
+                    error: function (ex) { }
+                });
+
+            });
+
+        });
+    </script>
+}

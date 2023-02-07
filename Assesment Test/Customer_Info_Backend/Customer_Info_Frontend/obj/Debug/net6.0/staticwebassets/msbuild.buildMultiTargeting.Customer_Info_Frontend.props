@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Customer_Info_Frontend.props" />
+</Project>

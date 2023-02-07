@@ -1,0 +1,121 @@
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\appsettings.Development.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\appsettings.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\libman.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.staticwebassets.runtime.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.exe
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.deps.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.runtimeconfig.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Autofac.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Nancy.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.AssemblyReference.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.GeneratedMSBuildEditorConfig.editorconfig
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.AssemblyInfoInputs.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.AssemblyInfo.cs
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.CoreCompileInputs.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.MvcApplicationPartsAssemblyInfo.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.RazorAssemblyInfo.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.RazorAssemblyInfo.cs
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.Customer_Info_Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.build.Customer_Info_Frontend.props
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Customer_Info_Frontend.props
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Customer_Info_Frontend.props
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets.pack.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets.build.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets.development.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\scopedcss\bundle\Customer_Info_Frontend.styles.css
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.CopyComplete
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\refint\Customer_Info_Frontend.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.pdb
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.genruntimeconfig.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.pdb
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\ref\Customer_Info_Frontend.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\appsettings.Development.json
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\appsettings.json
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\libman.json
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.staticwebassets.runtime.json
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.exe
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.deps.json
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.runtimeconfig.json
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.pdb
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Autofac.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Nancy.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.AssemblyReference.cache
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.AssemblyInfoInputs.cache
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.AssemblyInfo.cs
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.CoreCompileInputs.cache
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.MvcApplicationPartsAssemblyInfo.cache
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.RazorAssemblyInfo.cache
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.RazorAssemblyInfo.cs
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets.build.json
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets.development.json
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\scopedcss\bundle\Customer_Info_Frontend.styles.css
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.CopyComplete
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\refint\Customer_Info_Frontend.dll
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.pdb
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.genruntimeconfig.cache
+F:\My Project\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\ref\Customer_Info_Frontend.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\appsettings.Development.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\appsettings.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\libman.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.staticwebassets.runtime.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.exe
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.deps.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.runtimeconfig.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Customer_Info_Frontend.pdb
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Autofac.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Nancy.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.AssemblyReference.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.GeneratedMSBuildEditorConfig.editorconfig
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.AssemblyInfoInputs.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.AssemblyInfo.cs
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.CoreCompileInputs.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.MvcApplicationPartsAssemblyInfo.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.RazorAssemblyInfo.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.RazorAssemblyInfo.cs
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.Customer_Info_Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.build.Customer_Info_Frontend.props
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Customer_Info_Frontend.props
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Customer_Info_Frontend.props
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets.pack.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets.build.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\staticwebassets.development.json
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\scopedcss\bundle\Customer_Info_Frontend.styles.css
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.csproj.CopyComplete
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\refint\Customer_Info_Frontend.dll
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.pdb
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\Customer_Info_Frontend.genruntimeconfig.cache
+H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment Test\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\obj\Debug\net6.0\ref\Customer_Info_Frontend.dll
