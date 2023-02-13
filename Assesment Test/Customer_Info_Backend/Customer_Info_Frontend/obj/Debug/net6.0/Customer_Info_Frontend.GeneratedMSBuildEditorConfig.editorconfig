@@ -9,29 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Customer_Info_Frontend
 build_property.RootNamespace = Customer_Info_Frontend
-build_property.ProjectDir = C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\
+build_property.ProjectDir = H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\SHARIF_PC\Desktop\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend
+build_property.MSBuildProjectDirectory = H:\REYAD-1260660\Job Interview\EXCEL BD\Assesment Test\Assesment-Test-Excel-Ltd\Assesment Test\Customer_Info_Backend\Customer_Info_Frontend
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/SHARIF_PC/Desktop/Assesment-Test-Excel-Ltd/Assesment Test/Customer_Info_Backend/Customer_Info_Frontend/Views/Customers/Index.cshtml]
+[H:/REYAD-1260660/Job Interview/EXCEL BD/Assesment Test/Assesment-Test-Excel-Ltd/Assesment Test/Customer_Info_Backend/Customer_Info_Frontend/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHARIF_PC/Desktop/Assesment-Test-Excel-Ltd/Assesment Test/Customer_Info_Backend/Customer_Info_Frontend/Views/Home/Index.cshtml]
+[H:/REYAD-1260660/Job Interview/EXCEL BD/Assesment Test/Assesment-Test-Excel-Ltd/Assesment Test/Customer_Info_Backend/Customer_Info_Frontend/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHARIF_PC/Desktop/Assesment-Test-Excel-Ltd/Assesment Test/Customer_Info_Backend/Customer_Info_Frontend/Views/Shared/_Layout.cshtml]
+[H:/REYAD-1260660/Job Interview/EXCEL BD/Assesment Test/Assesment-Test-Excel-Ltd/Assesment Test/Customer_Info_Backend/Customer_Info_Frontend/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHARIF_PC/Desktop/Assesment-Test-Excel-Ltd/Assesment Test/Customer_Info_Backend/Customer_Info_Frontend/Views/_ViewImports.cshtml]
+[H:/REYAD-1260660/Job Interview/EXCEL BD/Assesment Test/Assesment-Test-Excel-Ltd/Assesment Test/Customer_Info_Backend/Customer_Info_Frontend/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHARIF_PC/Desktop/Assesment-Test-Excel-Ltd/Assesment Test/Customer_Info_Backend/Customer_Info_Frontend/Views/_ViewStart.cshtml]
+[H:/REYAD-1260660/Job Interview/EXCEL BD/Assesment Test/Assesment-Test-Excel-Ltd/Assesment Test/Customer_Info_Backend/Customer_Info_Frontend/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

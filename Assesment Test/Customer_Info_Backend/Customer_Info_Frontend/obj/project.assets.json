@@ -6209,11 +6209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHARIF_PC\\Desktop\\Assesment-Test-Excel-Ltd\\Assesment Test\\Customer_Info_Backend\\Customer_Info_Frontend\\Customer_Info_Frontend.csproj",
+      "projectUniqueName": "H:\\REYAD-1260660\\Job Interview\\EXCEL BD\\Assesment Test\\Assesment-Test-Excel-Ltd\\Assesment Test\\Customer_Info_Backend\\Customer_Info_Frontend\\Customer_Info_Frontend.csproj",
       "projectName": "Customer_Info_Frontend",
-      "projectPath": "C:\\Users\\SHARIF_PC\\Desktop\\Assesment-Test-Excel-Ltd\\Assesment Test\\Customer_Info_Backend\\Customer_Info_Frontend\\Customer_Info_Frontend.csproj",
+      "projectPath": "H:\\REYAD-1260660\\Job Interview\\EXCEL BD\\Assesment Test\\Assesment-Test-Excel-Ltd\\Assesment Test\\Customer_Info_Backend\\Customer_Info_Frontend\\Customer_Info_Frontend.csproj",
       "packagesPath": "C:\\Users\\SHARIF_PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHARIF_PC\\Desktop\\Assesment-Test-Excel-Ltd\\Assesment Test\\Customer_Info_Backend\\Customer_Info_Frontend\\obj\\",
+      "outputPath": "H:\\REYAD-1260660\\Job Interview\\EXCEL BD\\Assesment Test\\Assesment-Test-Excel-Ltd\\Assesment Test\\Customer_Info_Backend\\Customer_Info_Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
